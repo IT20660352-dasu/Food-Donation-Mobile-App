@@ -1,0 +1,3 @@
+As an article author,
+ I want to write about donations, donors and help seekers in zero hunger project,
+ So That I can increase the knowledge about our system for article readers. 
